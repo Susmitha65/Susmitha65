@@ -1,0 +1,1 @@
+"Hey there! I'm Susmitha V, a passionate software developer with expertise in Python, JavaScript, CSS. I love exploring new technologies and contributing to open-source projects in my spare time. Let's connect and collaborate on exciting projects together!"
