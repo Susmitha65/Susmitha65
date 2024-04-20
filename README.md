@@ -1,4 +1,4 @@
-### Overview
+
 
 * Software developer with expertise in Python, JavaScript, and CSS.
 * Passionate about building web applications and exploring new technologies.
