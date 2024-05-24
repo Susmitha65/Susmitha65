@@ -11,7 +11,7 @@ A passionate and detail-oriented computer engineering enthusiast with extensive 
 
 ## Tools & Technologies
 - Web Development: Django
-- Tools: VSCode
+- Tools: VSCode,Netbeans
 - Languages: C,HTML,Java
 - Version Control: GitHub
   
