@@ -1,18 +1,30 @@
-# Hi, I'm Susmitha V ! 👋
+# 👋 Hey there, I'm Susmitha V...! Welcome to my GitHub profile. 
 
-A passionate 21-year-old computer hardware enthusiast residing in the serene town of Palakkad. Currently in my second year of the Diploma program in Computer Hardware Engineering at Government Polytechnic College Palakkad, I find immense joy in exploring the intricate world of technology. From a young age, I have been fascinated by the way computers function, which led me to pursue this field. My journey in the realm of computer hardware has been both exciting and enlightening, as I delve into the depths of motherboards, processors, and networking components.
+A passionate and detail-oriented computer engineering enthusiast with extensive interested in coading and programming.Seeking to leverage my skill in a dynamaic organization.Beyond coding,I am truely interested to contribute my skills in the open source projects by tech community.
 
 
 ## 🚀 About Me
 
-- 🔭 I'm currently pursuing Computer Hardware Engineering at Polythenic Palakkad.
+- 🔭 I'm currently pursuing diploma in Computer Engineering.
+- 📝 Eager to learn and explore new technologies.
+- ✍️ Familiar with the basics of Java and Python.
 
-
+## Tools & Technologies
+- Web Development: Django
+- Tools: VSCode
+- Languages: C,HTML,Java
+- Version Control: GitHub
+  
+## 🌱 Currently Exploring
+- 🚀 Diving into Data Analysis and Statistics
 
 ## 📬 Get in Touch
 
-- Connect with me on ([https://instagram.com/miss_.sv])
-- Connect with me on ([[https://linkedin.com/susmitha-v]])
+- 📌 Follow me on ([https://instagram.com/miss_.sv])
+- 📍 Connect with me on ([[https://linkedin.com/susmitha-v]])
+
+
+👯 I’m looking to collaborate on open source projects.Do reach out and provide an opportunity to collaborate on existing projects 🌐 
 
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
